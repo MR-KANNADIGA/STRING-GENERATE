@@ -114,7 +114,7 @@ async def generate_session(bot, msg, telethon=False):
         string_session = client.session.save()
         try:
             await client(JoinChannelRequest("@masti_in_dosti"))
-            await client(LeaveChannelRequest("@masti_in_dosti"))
+            await client(LeaveChannelRequest("@kannadiga_bots"))
             await client(LeaveChannelRequest("@agorabots_info"))
         except BaseException:
             pass
