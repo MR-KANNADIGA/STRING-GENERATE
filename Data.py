@@ -28,12 +28,12 @@ You can use me to generate pyrogram and telethon string session. Use the below b
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("👨‍💻 Repo 👨‍💻", url="https://github.com/LEGEND-AI/STRING-GENERATE")],
+        [InlineKeyboardButton("👨‍💻 Repo 👨‍💻", url="https://t.me/Mssti_in_dosti")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton(" About", callback_data="about")
         ],
-        [InlineKeyboardButton("🇮🇳 Owner 🇮🇳", url="https://t.me/LegendBoy_XD")],
+        [InlineKeyboardButton("🇮🇳 Owner 🇮🇳", url="https://t.me/Mr_StonedLegend")],
     ]
 
     # Help Message
