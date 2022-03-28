@@ -6,7 +6,7 @@ class Data:
     START = """
 Hey {}
 
-Welcome to {}
+Welcome to Karunada String Generator Bot {}
 
 You can use me to generate pyrogram and telethon string session. Use the below buttons to know more!
     """
@@ -22,18 +22,18 @@ You can use me to generate pyrogram and telethon string session. Use the below b
     ]
 
     support_button = [
-        [InlineKeyboardButton("⚜ Support ⚜", url="https://t.me/LegendBot_XD")]
+        [InlineKeyboardButton("⚜ Support ⚜", url="https://t.me/NAAN_1_KANNADIGA")]
     ]
 
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("👨‍💻 Repo 👨‍💻", url="https://t.me/Mssti_in_dosti")],
+        [InlineKeyboardButton("👨‍💻 Repo 👨‍💻", url="https://t.me/Karunada_Kings_And_Queens")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton(" About", callback_data="about")
         ],
-        [InlineKeyboardButton("🇮🇳 Owner 🇮🇳", url="https://t.me/Mr_StonedLegend")],
+        [InlineKeyboardButton("🇮🇳 Owner 🇮🇳", url="https://t.me/Karunada_Sarkar")],
     ]
 
     # Help Message
@@ -53,5 +53,5 @@ A telegram bot to generate pyrogram and telethon string session...
 [Telethon](docs.telethon.org)
 
 Language : [Python](www.python.org)
-            **Regarding ~ **@Mr_StonedLegend
+            **Regarding ~ **@Karunada_Sarkar
 """
